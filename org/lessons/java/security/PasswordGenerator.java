@@ -25,6 +25,8 @@ public class PasswordGenerator {
        int somma=giorno+mese+anno;
        //password
 System.out.println(nome+"-"+cognome+"-"+colore+"-"+somma);
+
+      input.close();
 	}
 
 }
